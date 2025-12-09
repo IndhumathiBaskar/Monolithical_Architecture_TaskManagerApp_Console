@@ -1,8 +1,6 @@
-Here is the **best beginner-friendly, crystal-clear explanation** of *Monolithic Architecture* — with **real-world examples**, **tech examples (.NET included)**, **pros/cons**, **when to use**, **when NOT to use**, and **a full folder-structure demo**.
 
----
 
-# ✅ **Monolithic Architecture — Complete Beginner Guide**
+# ✅ **Monolithic Architecture**
 
 ## ⭐ 1. What is Monolithic Architecture?
 
@@ -625,4 +623,9 @@ Choose: 3
 3. View All Tasks
 4. Exit
 Choose: 4
+
+
+# Reference
+
+**Monolithic Architecture in .NET Core for Product and Order** : https://www.c-sharpcorner.com/blogs/monolithic-architecture-in-net-core-for-product-and-order
 
