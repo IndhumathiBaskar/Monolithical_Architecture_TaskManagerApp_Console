@@ -11,6 +11,8 @@ A **Monolithic Architecture** is a **single, large, unified application** where:
 * All modules (UI, business logic, database operations) are packaged together.
 * You deploy it as **one single unit**.
 * If you update anything → you redeploy the entire app.
+  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be96b31e-38f4-4ca7-ae3e-5e0a655d24ae" />
 
 ### Simple Definition:
 
@@ -300,6 +302,8 @@ All these run inside the same app.
 ---
 
 # ✅ **Project Name**
+
+
 
 `TaskManagerApp`
 (Everything stored inside one project → perfect monolith)
